@@ -2,7 +2,7 @@
 This is a project where I am creating a grid search cross validation 
 with Keras and scikit-learn for deep learning. My aim is to automate 
 the hyperparameter tuning and maximise the accuracy with a script that 
-could be applicable to multiple problems with only little adjustments.
+could be applicable to multiple datasets with only little adjustments.
 
 I used the pre-processing ideas from Udacity and got also inspired by 
 this post: 
